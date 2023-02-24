@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52bab455-3297-42e3-a7d8-9f2cdfdab656" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ex2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VarEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VarEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VarEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VarEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VarEx5.java" afterDir="false" />
+    <list default="true" id="52bab455-3297-42e3-a7d8-9f2cdfdab656" name="Changes" comment="Java basic variable , print">
+      <change afterPath="$PROJECT_DIR$/src/ArrayEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +17,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2M8GkoEARsjVQTaJEOo2yQZF8Ry" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -44,6 +52,29 @@
       <option name="presentableId" value="Default" />
       <updated>1677141944543</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java basic variable , print">
+      <created>1677145726703</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677145726703</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java basic variable , print" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java basic variable , print" />
   </component>
 </project>
